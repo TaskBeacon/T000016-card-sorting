@@ -1,0 +1,210 @@
+﻿# ============================================================================
+# Sampler simulation config
+# - Used by: python main.py sim --config config/config_sampler_sim.yaml
+# - Scope: sampler simulation only (no qa section in this file)
+# - Profile: short smoke run
+# ============================================================================
+
+# === Subject Form ===========================================================
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints:
+      min: 101
+      max: 999
+      digits: 3
+
+subinfo_mapping:
+  subject_id: 受试者编号（3位数字）
+  Participant Information: 受试者信息
+  registration_failed: 登记失败
+  registration_successful: 登记成功
+  invalid_input: "{field} 输入无效"
+
+
+# === Display / Window =======================================================
+window:
+  size: [1280, 720]
+  units: pix
+  screen: 0
+  bg_color: black
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 60
+
+
+# === Task ===================================================================
+task:
+  task_name: eeg_card_sorting
+  save_path: ./outputs/sim_sampler
+  language: Chinese
+  voice_name: zh-CN-YunyangNeural
+  voice_enabled: false
+  delta: 1
+  total_blocks: 3
+  total_trials: 18
+  trial_per_block: 6
+  conditions: [color, shape, number]
+  key_list: ["1", "2", "3", "4"]
+  seed_mode: same_across_sub
+
+
+# === Timing =================================================================
+timing:
+  cue_duration: 0.4
+  anticipation_duration: 0.2
+  target_duration: 1.6
+  feedback_duration: 0.4
+  iti_duration: 0.2
+
+
+# === Stimuli ================================================================
+stimuli:
+  fixation:
+    type: text
+    font: SimHei
+    text: "+"
+    color: white
+    height: 42
+
+  instruction_text:
+    type: text
+    font: SimHei
+    text: |
+      卡片分类任务（采样器模拟）
+      按空格键开始。
+    color: white
+    height: 28
+    wrapWidth: 900
+
+  rule_cue:
+    type: text
+    font: SimHei
+    text: "当前规则：{rule_label}"
+    color: cyan
+    height: 38
+
+  target_card:
+    type: image
+    image: assets/cards/targets/target_color-red_shape-circle_number-1.png
+    size: [300, 430]
+    pos: [0, 90]
+
+  ref_card_1:
+    type: image
+    image: assets/cards/reference/ref_1.png
+    size: [120, 172]
+    pos: [-330, -245]
+
+  ref_card_2:
+    type: image
+    image: assets/cards/reference/ref_2.png
+    size: [120, 172]
+    pos: [-110, -245]
+
+  ref_card_3:
+    type: image
+    image: assets/cards/reference/ref_3.png
+    size: [120, 172]
+    pos: [110, -245]
+
+  ref_card_4:
+    type: image
+    image: assets/cards/reference/ref_4.png
+    size: [120, 172]
+    pos: [330, -245]
+
+  feedback_correct:
+    type: text
+    font: SimHei
+    text: "正确"
+    color: green
+    height: 36
+
+  feedback_incorrect:
+    type: text
+    font: SimHei
+    text: "错误"
+    color: red
+    height: 36
+
+  block_break:
+    type: text
+    font: SimHei
+    text: |
+      采样器模拟区块 {block_num}/{total_blocks}
+      规则：{rule_label}
+      正确率：{accuracy:.1%}
+      得分：{total_score}
+
+      按空格键继续。
+    color: white
+    height: 24
+    wrapWidth: 980
+
+  good_bye:
+    type: text
+    font: SimHei
+    text: |
+      采样器模拟完成。
+      总得分：{total_score}
+
+      按空格键退出。
+    color: white
+    height: 28
+    wrapWidth: 900
+
+
+# === Triggers ===============================================================
+triggers:
+  map:
+    exp_onset: 98
+    exp_end: 99
+    block_onset: 100
+    block_end: 101
+    color_cue_onset: 20
+    shape_cue_onset: 21
+    number_cue_onset: 22
+    anticipation_onset: 25
+    target_onset: 30
+    key_press: 40
+    no_response: 41
+    feedback_onset: 50
+    iti_onset: 60
+
+  driver:
+    type: serial_url
+    url: loop://
+    baudrate: 115200
+
+  timing:
+    post_delay_ms: 1
+
+  policy:
+    strict: false
+
+
+# === Trial Controller =======================================================
+controller:
+  seed: 2026
+  enable_logging: true
+
+
+# === Simulation Runtime =====================================================
+sim:
+  output_dir: outputs/sim_sampler
+  seed: 0
+  participant_id: sim001
+  session_id: sub-sim001_task-eeg_card_sorting_sampler_seed0
+  log_path: outputs/sim_sampler/sub-sim001_task-eeg_card_sorting_sampler_seed0_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.2
+  clamp_rt: false
+  responder:
+    type: responders.task_sampler:TaskSamplerResponder
+    kwargs:
+      continue_key: space
+      hit_rate: 0.72
+      rt_mean_s: 0.48
+      rt_sd_s: 0.08
+      rt_min_s: 0.18

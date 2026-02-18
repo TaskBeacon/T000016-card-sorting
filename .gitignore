@@ -1,0 +1,19 @@
+﻿# Ignore subject/runtime output data
+/data/
+/outputs/*
+!/outputs/.gitkeep
+outputs/human/
+outputs/qa/
+outputs/sim/
+outputs/sim_sampler/
+src/__pycache__/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local tooling caches / env
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/

@@ -1,0 +1,2165 @@
+[
+  {
+    "id": "W2093830143",
+    "title": "Brain Morphometry and Cognitive Performance in Detoxified Alcohol-Dependents with Preserved Psychosocial Functioning",
+    "authors": [
+      "Sandra Chanraud",
+      "Catherine Martelli",
+      "Fran\u00e7oise Delain",
+      "Nikoletta Kostogianni",
+      "Gwena\u00eblle Douaud",
+      "Henri\u2010Jean Aubin",
+      "Michel Reynaud",
+      "Jean\u2010Luc Martinot"
+    ],
+    "year": 2006,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/sj.npp.1301219",
+    "citation_count": 414,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2067877506",
+    "title": "Computerized Neurocognitive Scanning: I. Methodology and Validation in Healthy People",
+    "authors": [
+      "Ruben C. Gur"
+    ],
+    "year": 2001,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1016/s0893-133x(01)00278-0",
+    "citation_count": 405,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2131168315",
+    "title": "Mechanisms of cognitive set flexibility in Parkinson's disease",
+    "authors": [
+      "Roshan Cools"
+    ],
+    "year": 2001,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/124.12.2503",
+    "citation_count": 399,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2068999504",
+    "title": "Chronic Unpredictable Stress Induces a Cognitive Deficit and Anxiety-Like Behavior in Rats that is Prevented by Chronic Antidepressant Drug Treatment",
+    "authors": [
+      "Corina O. Bondi",
+      "G Rodriguez",
+      "Georgianna G. Gould",
+      "Alan Frazer",
+      "David A. Morilak"
+    ],
+    "year": 2007,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/sj.npp.1301410",
+    "citation_count": 397,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104402653",
+    "title": "Dissociating executive mechanisms of task control following frontal lobe damage and Parkinson's disease",
+    "authors": [
+      "Robert D. Rogers"
+    ],
+    "year": 1998,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/121.5.815",
+    "citation_count": 315,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2022454955",
+    "title": "A neuropsychological battery to detect specific executive and social cognitive impairments in early frontotemporal dementia",
+    "authors": [
+      "Teresa Torralva",
+      "Mar\u00eda Roca",
+      "Ezequiel Gleichgerrcht",
+      "Trist\u00e1n Bekinschtein",
+      "Facundo Manes"
+    ],
+    "year": 2009,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awp041",
+    "citation_count": 296,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2020212968",
+    "title": "Modafinil Improves Cognition and Attentional Set Shifting in Patients with Chronic Schizophrenia",
+    "authors": [
+      "Danielle C. Turner",
+      "Luke Clark",
+      "Edith Pomarol\u2010Clotet",
+      "Peter J. McKenna",
+      "Trevor W. Robbins",
+      "Barbara J. Sahakian"
+    ],
+    "year": 2004,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/sj.npp.1300457",
+    "citation_count": 259,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2118483696",
+    "title": "Who Comes First? The Role of the Prefrontal and Parietal Cortex in Cognitive Control",
+    "authors": [
+      "Marcel Bra\u00df",
+      "Markus Ullsperger",
+      "Thomas R. Knoesche",
+      "D. Yves von Cramon",
+      "Natalie A. Phillips"
+    ],
+    "year": 2005,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/0898929054985400",
+    "citation_count": 235,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2537627674",
+    "title": "Dynamic brain network reconfiguration as a potential schizophrenia genetic risk mechanism modulated by NMDA receptor function",
+    "authors": [
+      "Urs Braun",
+      "Axel Sch\u00e4fer",
+      "Danielle S. Bassett",
+      "Franziska Rausch",
+      "Janina I. Schweiger",
+      "Edda Bilek",
+      "Susanne Erk",
+      "Nina Romanczuk\u2010Seiferth",
+      "O. Grimm",
+      "Lena S. Geiger",
+      "Leila Haddad",
+      "Kristina Otto"
+    ],
+    "year": 2016,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1608819113",
+    "citation_count": 213,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167212163",
+    "title": "Cognitive deficits in Huntington's disease are predicted by dopaminergic PET markers and brain volumes",
+    "authors": [
+      "Linda B\u00e4ckman"
+    ],
+    "year": 1997,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/120.12.2207",
+    "citation_count": 208,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141556360",
+    "title": "Thalamic-Prefrontal Cortical-Ventral Striatal Circuitry Mediates Dissociable Components of Strategy Set Shifting",
+    "authors": [
+      "Annie Eugenie Block",
+      "H. Dhanji",
+      "S. F. Thompson-Tardif",
+      "Stan Floresco"
+    ],
+    "year": 2006,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhl073",
+    "citation_count": 207,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1995531573",
+    "title": "Decision Making and Executive Function in Male Adolescents with Early-Onset or Adolescence-Onset Conduct Disorder and Control Subjects",
+    "authors": [
+      "Graeme Fairchild",
+      "Stephanie H.M. van Goozen",
+      "Sarah Stollery",
+      "Michael R. F. Aitken",
+      "Justin Savage",
+      "Simon Moore",
+      "Ian Goodyer"
+    ],
+    "year": 2009,
+    "journal": "Biological Psychiatry",
+    "doi_or_url": "https://doi.org/10.1016/j.biopsych.2009.02.024",
+    "citation_count": 196,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139126274",
+    "title": "The Neuropsychology of Cocaine Addiction: Recent Cocaine Use Masks Impairment",
+    "authors": [
+      "Patricia A. Woicik",
+      "Scott J. Moeller",
+      "Nelly Alia\u2010Klein",
+      "Thomas Maloney",
+      "Tanya M Lukasik",
+      "Olga Yeliosof",
+      "Gene\u2010Jack Wang",
+      "Nora D. Volkow",
+      "Rita Z. Goldstein"
+    ],
+    "year": 2008,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2008.60",
+    "citation_count": 188,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2144875997",
+    "title": "Cognitive Control Involved in Overcoming Prepotent Response Tendencies and Switching Between Tasks",
+    "authors": [
+      "Anita D. Barber",
+      "Cameron S. Carter"
+    ],
+    "year": 2004,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhh189",
+    "citation_count": 169,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2079700883",
+    "title": "Working memory constrains abstraction in schizophrenia",
+    "authors": [
+      "David C. Glahn",
+      "Tyrone D. Cannon",
+      "Raquel E. Gur",
+      "J. Daniel Ragland",
+      "Ruben C. Gur"
+    ],
+    "year": 2000,
+    "journal": "Biological Psychiatry",
+    "doi_or_url": "https://doi.org/10.1016/s0006-3223(99)00187-0",
+    "citation_count": 138,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100512259",
+    "title": "Dorsolateral prefrontal cortex dysfunction in presymptomatic Huntington's disease: evidence from event-related fMRI",
+    "authors": [
+      "Robert Christian Wolf",
+      "Nenad Vasi\u0107",
+      "Carlos Sch\u00f6nfeldt\u2010Lecuona",
+      "G. Bernhard Landwehrmeyer",
+      "D. Ecker"
+    ],
+    "year": 2007,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awm210",
+    "citation_count": 137,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2054209782",
+    "title": "The Effects of Clozapine on Symptom Reduction, Neurocognitive Function, and Clinical Management in Treatment-Refractory State Hospital Schizophrenic Inpatients",
+    "authors": [
+      "A.L. Hoff"
+    ],
+    "year": 1996,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1016/0893-133x(95)00242-6",
+    "citation_count": 134,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2134551595",
+    "title": "Wisconsin Card Sorting Revisited: Distinct Neural Circuits Participating in Different Stages of the Task Identified by Event-Related Functional Magnetic Resonance Imaging",
+    "authors": [
+      "Oury Monchi",
+      "Michael Petrides",
+      "Valentina Petre",
+      "Keith J. Worsley",
+      "Alain Dagher"
+    ],
+    "year": 2001,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.21-19-07733.2001",
+    "citation_count": 966,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116704462",
+    "title": "Interactions between frontal cortex and basal ganglia in working memory: A computational model",
+    "authors": [
+      "Michael J. Frank",
+      "B. LOUGHRY",
+      "R. C. O'REILLY"
+    ],
+    "year": 2001,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.1.2.137",
+    "citation_count": 909,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2149983193",
+    "title": "Plasticity of brain networks in a randomized intervention trial of exercise training in older adults",
+    "authors": [
+      "Voss Voss"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2010.00032",
+    "citation_count": 824,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2036299899",
+    "title": "The cognitive neuroscience of creativity",
+    "authors": [
+      "Arne Dietrich"
+    ],
+    "year": 2004,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196731",
+    "citation_count": 820,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123330196",
+    "title": "Assessment practices of clinical neuropsychologists in the United States and Canada: A survey of INS, NAN, and APA Division 40 members",
+    "authors": [
+      "L Rabin",
+      "William Barr",
+      "Leslie A. Burton"
+    ],
+    "year": 2004,
+    "journal": "Archives of Clinical Neuropsychology",
+    "doi_or_url": "https://doi.org/10.1016/j.acn.2004.02.005",
+    "citation_count": 803,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2058189433",
+    "title": "Bayesian hypothesis testing for psychologists: A tutorial on the Savage\u2013Dickey method",
+    "authors": [
+      "Eric\u2010Jan Wagenmakers",
+      "Tom Lodewyckx",
+      "Himanshu Kuriyal",
+      "Raoul P. P. P. Grasman"
+    ],
+    "year": 2010,
+    "journal": "Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.cogpsych.2009.12.001",
+    "citation_count": 751,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1973967428",
+    "title": "Meta\u2010analysis of neuroimaging studies of the Wisconsin Card\u2010Sorting task and component processes",
+    "authors": [
+      "Bradley R. Buchsbaum",
+      "Stephanie M. Greer",
+      "Wei\u2010Li Chang",
+      "Karen F. Berman"
+    ],
+    "year": 2005,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20128",
+    "citation_count": 485,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2086982304",
+    "title": "Catechol-O-Methyltransferase Inhibition Improves Set-Shifting Performance and Elevates Stimulated Dopamine Release in the Rat Prefrontal Cortex",
+    "authors": [
+      "Elizabeth M. Tunbridge"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1124-04.2004",
+    "citation_count": 418,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1581202840",
+    "title": "Reinforcement Learning in Multidimensional Environments Relies on Attention Mechanisms",
+    "authors": [
+      "Yael Niv",
+      "Reka Daniel",
+      "Andra Geana",
+      "Samuel J. Gershman",
+      "Yuan Chang Leong",
+      "Angela Radulescu",
+      "Robert C. Wilson"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2978-14.2015",
+    "citation_count": 402,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2009595390",
+    "title": "Poor Cognitive Flexibility in Eating Disorders: Examining the Evidence using the Wisconsin Card Sorting Task",
+    "authors": [
+      "Kate Tchanturia",
+      "Helen Davies",
+      "Marion Roberts",
+      "Amy Harrison",
+      "Michiko Nakazato",
+      "Ulrike Schmidt",
+      "Janet Treasure",
+      "Robin G. Morris"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0028331",
+    "citation_count": 389,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2121644670",
+    "title": "Cognitive Training and Supported Employment for Persons With Severe Mental Illness: One-Year Results From a Randomized Controlled Trial",
+    "authors": [
+      "Susan R. McGurk"
+    ],
+    "year": 2005,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/sbi037",
+    "citation_count": 360,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2125463914",
+    "title": "Neural Bases of Set-Shifting Deficits in Parkinson's Disease",
+    "authors": [
+      "Oury Monchi",
+      "Michael Petrides",
+      "Julien Doyon",
+      "Ronald B. Postuma",
+      "Keith J. Worsley",
+      "Alain Dagher"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4860-03.2004",
+    "citation_count": 339,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100834566",
+    "title": "Personality, Psychopathology, Life Attitudes and Neuropsychological Performance among Ritual Users of Ayahuasca: A Longitudinal Study",
+    "authors": [
+      "Jos\u00e9 Carlos Bouso",
+      "D\u00e9bora Gonz\u00e1lez",
+      "Sabela Fondevila",
+      "Marta Cutchet",
+      "Xavier Fern\u00e1ndez",
+      "Paulo C\u00e9sar Ribeiro Barbosa",
+      "Miguel \u00c1ngel Alc\u00e1zar\u2010C\u00f3rcoles",
+      "Wladimyr Sena Ara\u00fajo",
+      "Manel J. Barbanoj",
+      "Josep Mar\u00eda F\u00e1bregas",
+      "Jordi Riba"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0042421",
+    "citation_count": 306,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2042505987",
+    "title": "The relationship of intelligence to executive function and non-executive function measures in a sample of average, above average, and gifted youth",
+    "authors": [
+      "Sharon Arffa"
+    ],
+    "year": 2007,
+    "journal": "Archives of Clinical Neuropsychology",
+    "doi_or_url": "https://doi.org/10.1016/j.acn.2007.08.001",
+    "citation_count": 299,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1692107071",
+    "title": "Executive dysfunction following traumatic brain injury: Neural substrates and treatment strategies",
+    "authors": [
+      "Brenna C. McDonald",
+      "Laura A. Flashman",
+      "Andrew J. Saykin"
+    ],
+    "year": 2002,
+    "journal": "Neurorehabilitation",
+    "doi_or_url": "https://doi.org/10.3233/nre-2002-17407",
+    "citation_count": 297,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2047640349",
+    "title": "Executive Functioning in Schizophrenia",
+    "authors": [
+      "Gricel Orellana",
+      "Andrea Slachevsky"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychiatry",
+    "doi_or_url": "https://doi.org/10.3389/fpsyt.2013.00035",
+    "citation_count": 274,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2143886792",
+    "title": "Exercise, Fitness, and Neurocognitive Function in Older Adults: The \u201cSelective Improvement\u201d and \u201cCardiovascular Fitness\u201d Hypotheses",
+    "authors": [
+      "Ann L. Smiley\u2010Oyen",
+      "Kristin A. Lowry",
+      "Sara J. Francois",
+      "Marian L. Kohut",
+      "Panteleimon Ekkekakis"
+    ],
+    "year": 2008,
+    "journal": "Annals of Behavioral Medicine",
+    "doi_or_url": "https://doi.org/10.1007/s12160-008-9064-5",
+    "citation_count": 248,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2901368915",
+    "title": "Cognitive Control and Flexibility in the Context of Stress and Depressive Symptoms: The Cognitive Control and Flexibility Questionnaire",
+    "authors": [
+      "Robert L. Gabrys",
+      "Nassim Tabri",
+      "Hymie Anisman",
+      "Kimberly Matheson"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.02219",
+    "citation_count": 245,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2015763500",
+    "title": "Age-related decline in brain resources magnifies genetic effects on cognitive functioning",
+    "authors": [
+      "Ulman Lindenberger"
+    ],
+    "year": 2008,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/neuro.01.039.2008",
+    "citation_count": 235,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2069622657",
+    "title": "Brain Training Game Boosts Executive Functions, Working Memory and Processing Speed in the Young Adults: A Randomized Controlled Trial",
+    "authors": [
+      "Rui Nouchi",
+      "Yasuyuki Taki",
+      "Hikaru Takeuchi",
+      "Hiroshi Hashizume",
+      "Takayuki Nozawa",
+      "Toshimune Kambara",
+      "Atsushi Sekiguchi",
+      "Carlos Makoto Miyauchi",
+      "Yuka Kotozaki",
+      "Haruka Nouchi",
+      "Ryuta Kawashima"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0055518",
+    "citation_count": 234,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2013107654",
+    "title": "Executive Functions Profile in Extreme Eating/Weight Conditions: From Anorexia Nervosa to Obesity",
+    "authors": [
+      "Ana B. Fagundo",
+      "Rafael de la Torre",
+      "Susana Jim\u00e9nez\u2010M\u00farcia",
+      "Zaida Ag\u00fcera",
+      "Roser Granero",
+      "Salom\u00e9 T\u00e1rrega",
+      "Cristina Botella",
+      "Rosa Ba\u00f1os",
+      "Jos\u00e9 Manuel Fern\u00e1ndez\u2010Real",
+      "Roser Rodr\u00edguez",
+      "Laura Forcano",
+      "Gema Fr\u00fchbeck"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0043382",
+    "citation_count": 228,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133743374",
+    "title": "Failures of metacognition and lack of insight in neuropsychiatric disorders",
+    "authors": [
+      "Anthony S. David",
+      "Nicholas Bedford",
+      "Ben Wiffen",
+      "James Gilleen"
+    ],
+    "year": 2012,
+    "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "doi_or_url": "https://doi.org/10.1098/rstb.2012.0002",
+    "citation_count": 226,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2075278002",
+    "title": "Dopamine Depletion Impairs Frontostriatal Functional Connectivity during a Set-Shifting Task",
+    "authors": [
+      "Atsuko Nagano\u2010Saito",
+      "Marco Leyton",
+      "Oury Monchi",
+      "Yael Goldberg",
+      "Yong He",
+      "Alain Dagher"
+    ],
+    "year": 2008,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3921-07.2008",
+    "citation_count": 222,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035450387",
+    "title": "Executive Functioning Deficits in Attention\u2010Deficit/Hyperactivity Disorder Are Independent of Oppositional Defiant or Reading Disorder",
+    "authors": [
+      "Rafael Klorman",
+      "Leslie Hazel\u2010Fernandez",
+      "Sally E. Shaywitz",
+      "Jack \u039c. Fletcher",
+      "Karen E. Marchione",
+      "John M. Holahan",
+      "Karla K. Stuebing",
+      "Bennett A. Shaywitz"
+    ],
+    "year": 1999,
+    "journal": "Journal of the American Academy of Child & Adolescent Psychiatry",
+    "doi_or_url": "https://doi.org/10.1097/00004583-199909000-00020",
+    "citation_count": 218,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2153719229",
+    "title": "Internal representation of task rules by recurrent dynamics: the importance of the diversity of neural responses",
+    "authors": [
+      "Mattia Rigotti"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Computational Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fncom.2010.00024",
+    "citation_count": 204,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2097795237",
+    "title": "Age-Related Differences in Supervisory Attentional System Functions",
+    "authors": [
+      "Pilar Andr\u00e9s",
+      "Martial Van der Linden"
+    ],
+    "year": 2000,
+    "journal": "The Journals of Gerontology Series B",
+    "doi_or_url": "https://doi.org/10.1093/geronb/55.6.p373",
+    "citation_count": 201,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060618570",
+    "title": "Prefrontal Cell Activities Related to Monkeys' Success and Failure in Adapting to Rule Changes in a Wisconsin Card Sorting Test Analog",
+    "authors": [
+      "Farshad A. Mansouri",
+      "Kenji Matsumoto",
+      "Keiji Tanaka"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5238-05.2006",
+    "citation_count": 199,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1529639928",
+    "title": "On the existence of a generalized non-specific task-dependent network",
+    "authors": [
+      "Kenneth Hugdahl",
+      "Marcus E. Raichle",
+      "Anish Mitra",
+      "Karsten Specht"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00430",
+    "citation_count": 195,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2102791170",
+    "title": "Frontal/Executive Impairments in Schizophrenia",
+    "authors": [
+      "Rodney Morice",
+      "Ann Delahunty"
+    ],
+    "year": 1996,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/22.1.125",
+    "citation_count": 193,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2782873139",
+    "title": "Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes",
+    "authors": [
+      "Kean Poon"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.02311",
+    "citation_count": 191,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008634385",
+    "title": "Brain training with non-action video games enhances aspects of cognition in older adults: a randomized controlled trial",
+    "authors": [
+      "Soledad Ballesteros",
+      "A. Fernandez Prieto",
+      "Julia Mayas",
+      "Pilar Toril",
+      "Carmen Pita",
+      "Laura Ponce de Le\u00f3n Romero",
+      "Jos\u00e9 Manuel Reales Avil\u00e9s",
+      "John Waterworth"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2014.00277",
+    "citation_count": 183,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2152864438",
+    "title": "Catechol<i>O</i>-Methyltransferase val<sup>158</sup>met Genotype Influences Frontoparietal Activity during Planning in Patients with Parkinson's Disease",
+    "authors": [
+      "Caroline H. Williams\u2010Gray",
+      "Adam Hampshire",
+      "Trevor W. Robbins",
+      "Adrian M. Owen",
+      "Roger A. Barker"
+    ],
+    "year": 2007,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0774-07.2007",
+    "citation_count": 179,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2075981634",
+    "title": "Characterizing cognitive aging of working memory and executive function in animal models",
+    "authors": [
+      "Jennifer L. Bizon",
+      "Thomas C. Foster",
+      "Gene E. Alexander",
+      "Elizabeth L. Glisky"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2012.00019",
+    "citation_count": 175,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971933252",
+    "title": "Neuropsychological pattern of striatonigral degeneration: comparison with Parkinson's disease and progressive supranuclear palsy.",
+    "authors": [
+      "B. Pillon",
+      "N. Gouider\u2010Khouja",
+      "Bernard Deweer",
+      "Marie Vidailhet",
+      "Chara Malapani",
+      "Bruno Dubois",
+      "Yves Agid"
+    ],
+    "year": 1995,
+    "journal": "Journal of Neurology Neurosurgery & Psychiatry",
+    "doi_or_url": "https://doi.org/10.1136/jnnp.58.2.174",
+    "citation_count": 172,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167716092",
+    "title": "Elderly with Autism: Executive Functions and Memory",
+    "authors": [
+      "Hilde M. Geurts",
+      "Marlies E. Vissers"
+    ],
+    "year": 2011,
+    "journal": "Journal of Autism and Developmental Disorders",
+    "doi_or_url": "https://doi.org/10.1007/s10803-011-1291-0",
+    "citation_count": 168,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977293177",
+    "title": "Differential Contributions of Prefrontal and Hippocampal Dopamine D<sub>1</sub>and D<sub>2</sub>Receptors in Human Cognitive Functions",
+    "authors": [
+      "Hidehiko Takahashi",
+      "Motoichiro Kato",
+      "Harumasa Takano",
+      "Ryosuke Arakawa",
+      "Masaki Okumura",
+      "Tatsui Otsuka",
+      "Fumitoshi Kodaka",
+      "Mika Hayashi",
+      "Yoshiro Okubo",
+      "Hiroshi Ito",
+      "Tetsuya Suhara"
+    ],
+    "year": 2008,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3446-08.2008",
+    "citation_count": 165,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116039220",
+    "title": "Functional Magnetic Resonance Imaging Examination of Two Modular Architectures for Switching Multiple Internal Models",
+    "authors": [
+      "Hiroshi Imamizu",
+      "Tomoe Kuroda",
+      "Toshinori Yoshioka",
+      "Mitsuo Kawato"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4011-03.2004",
+    "citation_count": 162,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2001553660",
+    "title": "Assessment of executive functions in obese individuals with binge eating disorder",
+    "authors": [
+      "Duchesne Monica",
+      "Mattos Paulo",
+      "Jos\u00e9 Carlos Appolin\u00e1rio",
+      "S\u00edlvia Freitas",
+      "Gabriel Coutinho",
+      "Concei\u00e7\u00e3o Santos",
+      "Walmir Coutinho"
+    ],
+    "year": 2010,
+    "journal": "Brazilian Journal of Psychiatry",
+    "doi_or_url": "https://doi.org/10.1590/s1516-44462010000400011",
+    "citation_count": 160,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2091873219",
+    "title": "Executive functions in developmental dyslexia",
+    "authors": [
+      "Pamela Varvara",
+      "Cristiana Varuzza",
+      "Anna C. P. Sorrentino",
+      "Stefano Vicari",
+      "Deny Menghini"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00120",
+    "citation_count": 155,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2110741478",
+    "title": "Working Memory in Schizophrenia: Transient \"Online\" Storage Versus Executive Functioning",
+    "authors": [
+      "William Perry",
+      "Robert K. Heaton",
+      "Eric G. Potterat",
+      "Tresa M. Roebuck",
+      "Arpi Minassian",
+      "David Braff"
+    ],
+    "year": 2001,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/oxfordjournals.schbul.a006854",
+    "citation_count": 155,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2598237501",
+    "title": "Attentional Control and other Executive Functions",
+    "authors": [
+      "Athanasios Drigas",
+      "Maria Karyotaki"
+    ],
+    "year": 2017,
+    "journal": "International Journal of Emerging Technologies in Learning (iJET)",
+    "doi_or_url": "https://doi.org/10.3991/ijet.v12i03.6587",
+    "citation_count": 154,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158707544",
+    "title": "Executive functioning in children with autism and Tourette syndrome",
+    "authors": [
+      "Sylvie Vert\u00e9",
+      "Hilde M. Geurts",
+      "Herbert Roeyers",
+      "Jaap Oosterlaan",
+      "Joseph A. Sergeant"
+    ],
+    "year": 2005,
+    "journal": "Development and Psychopathology",
+    "doi_or_url": "https://doi.org/10.1017/s0954579405050200",
+    "citation_count": 153,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133924241",
+    "title": "Autism is characterized by dorsal anterior cingulate hyperactivation during social target detection",
+    "authors": [
+      "Gabriel S. Dichter",
+      "Jennifer N. Felder",
+      "James W. Bodfish"
+    ],
+    "year": 2009,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsp017",
+    "citation_count": 147,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2056741292",
+    "title": "Dysregulation of the sympathetic nervous system, hypothalamic\u2013pituitary\u2013adrenal axis and executive function in individuals at risk for suicide",
+    "authors": [
+      "Alexander McGirr"
+    ],
+    "year": 2010,
+    "journal": "Journal of Psychiatry and Neuroscience",
+    "doi_or_url": "https://doi.org/10.1503/jpn.090121",
+    "citation_count": 145,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2177053118",
+    "title": "The most frequently used tests for assessing executive functions in aging",
+    "authors": [
+      "Camila de Assis Faria",
+      "Heloisa Alves",
+      "Helenice Charchat\u2010Fichman"
+    ],
+    "year": 2015,
+    "journal": "Dementia & Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1590/1980-57642015dn92000009",
+    "citation_count": 145,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171741150",
+    "title": "Cognitive profile of subcortical ischaemic vascular disease",
+    "authors": [
+      "Hanna Jokinen"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neurology Neurosurgery & Psychiatry",
+    "doi_or_url": "https://doi.org/10.1136/jnnp.2005.069120",
+    "citation_count": 144,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2103364728",
+    "title": "Executive functioning in preschool children born very preterm: Relationship with early white matter pathology",
+    "authors": [
+      "Jamie O. Edgin",
+      "Terrie E. Inder",
+      "Peter J. Anderson",
+      "Kelly Marie Hood",
+      "Caron A. C. Clark",
+      "Lianne J. Woodward"
+    ],
+    "year": 2007,
+    "journal": "Journal of the International Neuropsychological Society",
+    "doi_or_url": "https://doi.org/10.1017/s1355617708080053",
+    "citation_count": 142,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2626038906",
+    "title": "A new generation computerised metacognitive cognitive remediation programme for schizophrenia (CIRCuiTS): a randomised controlled trial",
+    "authors": [
+      "Clare Reeder",
+      "Vyv Huddy",
+      "Matteo Cella",
+      "Rumina Taylor",
+      "Kathryn Greenwood",
+      "Sabine Landau",
+      "Til Wykes"
+    ],
+    "year": 2017,
+    "journal": "Psychological Medicine",
+    "doi_or_url": "https://doi.org/10.1017/s0033291717001234",
+    "citation_count": 137,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2250865",
+    "title": "Sustaining Executive Functions During Sleep Deprivation: A Comparison of Caffeine, Dextroamphetamine, and Modafinil",
+    "authors": [
+      "William D. S. Killgore",
+      "Ellen T. Kahn-Greene",
+      "Nancy L. Grugle",
+      "Desiree B. Killgore",
+      "Thomas J. Balkin"
+    ],
+    "year": 2009,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/32.2.205",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2461188221",
+    "title": "Short-Term Total Sleep Deprivations Does Not Selectively Impair Higher Cortical Functioning",
+    "authors": [
+      "Paul G. Binks",
+      "William F. Waters",
+      "Mark Hurry"
+    ],
+    "year": 1999,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/22.3.328",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100082623",
+    "title": "Age-Group Differences in Set-Switching and Set-Maintenance on the Wisconsin Card Sorting Task",
+    "authors": [
+      "Mari\u00ebtte Huizinga",
+      "Maurits W. van der Molen"
+    ],
+    "year": 2007,
+    "journal": "Developmental Neuropsychology",
+    "doi_or_url": "https://doi.org/10.1080/87565640701190817",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2012224032",
+    "title": "Structural and functional MRI correlates of Stroop control in benign MS",
+    "authors": [
+      "Maria A. Rocca",
+      "Paola Valsasina",
+      "Antonia Ceccarelli",
+      "Martina Absinta",
+      "Angelo Ghezzi",
+      "Gianna Carla Riccitelli",
+      "Elisabetta Pagani",
+      "Andrea Falini",
+      "Giancarlo Comi",
+      "Giuseppe Scotti",
+      "Massimo Filippi"
+    ],
+    "year": 2007,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20504",
+    "citation_count": 132,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2150310163",
+    "title": "White matter hyperintensities as a predictor of neuropsychological deficits post-stroke",
+    "authors": [
+      "Hanna Jokinen"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neurology Neurosurgery & Psychiatry",
+    "doi_or_url": "https://doi.org/10.1136/jnnp.2004.055657",
+    "citation_count": 131,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3039891091",
+    "title": "Executive functions predict verbal fluency scores in healthy participants",
+    "authors": [
+      "Julia Amunts",
+      "Julia A. Camilleri",
+      "Simon B. Eickhoff",
+      "Stefan Heim",
+      "Susanne Weis"
+    ],
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-020-65525-9",
+    "citation_count": 131,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2032625452",
+    "title": "Executive function on the Psychology Experiment Building Language tests",
+    "authors": [
+      "Brian J. Piper",
+      "Victoria Li",
+      "Massarra A. Eiwaz",
+      "Yuliyana V. Kobel",
+      "Ted S. Benice",
+      "Alex M. Chu",
+      "Reid H. J. Olsen",
+      "Douglas Z. Rice",
+      "Hilary M. Gray",
+      "Shane T. Mueller"
+    ],
+    "year": 2011,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-011-0096-6",
+    "citation_count": 130,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2082067671",
+    "title": "Differential Effects of Dopaminergic Therapies on Dorsal and Ventral Striatum in Parkinson's Disease: Implications for Cognitive Function",
+    "authors": [
+      "Penny A. MacDonald",
+      "Oury Monchi"
+    ],
+    "year": 2011,
+    "journal": "Parkinson s Disease",
+    "doi_or_url": "https://doi.org/10.4061/2011/572743",
+    "citation_count": 128,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008382643",
+    "title": "Characterizing cognitive aging in humans with links to animal models",
+    "authors": [
+      "Gene E. Alexander",
+      "Lee Ryan",
+      "Dawn Bowers",
+      "Thomas C. Foster",
+      "Jennifer L. Bizon",
+      "David Geldmacher",
+      "Elizabeth L. Glisky"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2012.00021",
+    "citation_count": 128,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128237415",
+    "title": "Inhibitory Changes After Age 60 and Their Relationship to Measures of Attention and Memory",
+    "authors": [
+      "Carol Persad",
+      "Norman Abeles",
+      "Rose T. Zacks",
+      "Natalie L. Denburg"
+    ],
+    "year": 2002,
+    "journal": "The Journals of Gerontology Series B",
+    "doi_or_url": "https://doi.org/10.1093/geronb/57.3.p223",
+    "citation_count": 127,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1966104272",
+    "title": "Differences in executive functioning in children with heavy prenatal alcohol exposure or attention-deficit/hyperactivity disorder",
+    "authors": [
+      "Linnea Vaurio",
+      "Edward P. Riley",
+      "Sarah N. Mattson"
+    ],
+    "year": 2007,
+    "journal": "Journal of the International Neuropsychological Society",
+    "doi_or_url": "https://doi.org/10.1017/s1355617708080144",
+    "citation_count": 126,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128437785",
+    "title": "Executive function and metacognitive self-awareness after Severe Traumatic Brain Injury",
+    "authors": [
+      "Umberto Bivona",
+      "Paola Ciurli",
+      "Carmen Barba",
+      "Graziano Onder",
+      "Eva Azicnuda",
+      "Daniela Silvestro",
+      "Giuseppa Renata Mangano",
+      "Jessica Rigon",
+      "Rita Formisano"
+    ],
+    "year": 2008,
+    "journal": "Journal of the International Neuropsychological Society",
+    "doi_or_url": "https://doi.org/10.1017/s1355617708081125",
+    "citation_count": 124,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2154666753",
+    "title": "Brain oscillatory activity associated with task switching and feedback processing",
+    "authors": [
+      "Toni Cunillera",
+      "Llu\u00eds Fuentemilla",
+      "Jos\u00e9 A. Peri\u00e1\u00f1ez",
+      "Josep Marco\u2010Pallar\u00e9s",
+      "Ulrike M. Kr\u00e4mer",
+      "Estela C\u00e0mara",
+      "Thomas F. M\u00fcnte",
+      "Antoni Rodr\u0131\u0301guez-Fornells"
+    ],
+    "year": 2011,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-011-0075-5",
+    "citation_count": 122,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2052083717",
+    "title": "A neuropsychological evaluation of orthorexia nervosa",
+    "authors": [
+      "Nancy S. Koven",
+      "Rina Senbonmatsu"
+    ],
+    "year": 2013,
+    "journal": "Open Journal of Psychiatry",
+    "doi_or_url": "https://doi.org/10.4236/ojpsych.2013.32019",
+    "citation_count": 121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1966556489",
+    "title": "The emerging role of norepinephrine in cognitive dysfunctions of Parkinson's disease",
+    "authors": [
+      "Elena M. Vazey",
+      "Gary Aston\u2010Jones"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnbeh.2012.00048",
+    "citation_count": 116,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2015073136",
+    "title": "Neural Basis of Impaired Cognitive Flexibility in Patients with Anorexia Nervosa",
+    "authors": [
+      "Yasuhiro Sato",
+      "Naohiro Saito",
+      "Atsushi Utsumi",
+      "Emiko Aizawa",
+      "Tomotaka Shoji",
+      "Masahiro Izumiyama",
+      "Hajime Mushiake",
+      "Michio Hongo",
+      "Shin Fukudo"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0061108",
+    "citation_count": 115,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104090580",
+    "title": "Association of COMT Val158Met Genotype With Executive Functioning Following Traumatic Brain Injury",
+    "authors": [
+      "Robert H. Lipsky",
+      "Molly B. Sparling",
+      "Laurie Ryan",
+      "Ke Xu",
+      "Andres M. Salazar",
+      "David Goldman",
+      "Deborah L. Warden"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neuropsychiatry",
+    "doi_or_url": "https://doi.org/10.1176/jnp.17.4.465",
+    "citation_count": 115,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2950418393",
+    "title": "Executive Functioning and Problem Solving: A Bidirectional Relation",
+    "authors": [
+      "Athanasios Drigas",
+      "Maria Karyotaki"
+    ],
+    "year": 2019,
+    "journal": "International Journal of Engineering Pedagogy (iJEP)",
+    "doi_or_url": "https://doi.org/10.3991/ijep.v9i3.10186",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4391997406",
+    "title": "Deep phenotyping of post-infectious myalgic encephalomyelitis/chronic fatigue syndrome",
+    "authors": [
+      "Brian Walitt",
+      "Komudi Singh",
+      "Samuel R. LaMunion",
+      "Mark Hallett",
+      "Steve Jacobson",
+      "Kong Y. Chen",
+      "Yoshimi Enose\u2010Akahata",
+      "Richard Apps",
+      "Jennifer J. Barb",
+      "Patrick B\u00e9dard",
+      "Robert J. Brychta",
+      "Ashura Buckley"
+    ],
+    "year": 2024,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-024-45107-3",
+    "citation_count": 108,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998386117",
+    "title": "Autistic traits in children with ADHD index clinical and cognitive problems",
+    "authors": [
+      "Miriam Cooper",
+      "Joanna Martin",
+      "K. Langley",
+      "Marian L. Hamshere",
+      "Anita Thapar"
+    ],
+    "year": 2013,
+    "journal": "European Child & Adolescent Psychiatry",
+    "doi_or_url": "https://doi.org/10.1007/s00787-013-0398-6",
+    "citation_count": 108,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980759396",
+    "title": "Executive function and bilingualism in young and older adults",
+    "authors": [
+      "Shanna Kousaie"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnbeh.2014.00250",
+    "citation_count": 107,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2170858614",
+    "title": "Altered Cognitive Function of Prefrontal Cortex During Error Feedback in Patients With Irritable Bowel Syndrome, Based on fMRI and Dynamic Causal Modeling",
+    "authors": [
+      "Emiko Aizawa",
+      "Yasuhiro Sato",
+      "Takanori Kochiyama",
+      "Naohiro Saito",
+      "Masahiro Izumiyama",
+      "Joe Morishita",
+      "Motoyori Kanazawa",
+      "Keisetsu Shima",
+      "Hajime Mushiake",
+      "Michio Hongo",
+      "Shin Fukudo"
+    ],
+    "year": 2012,
+    "journal": "Gastroenterology",
+    "doi_or_url": "https://doi.org/10.1053/j.gastro.2012.07.104",
+    "citation_count": 107,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W948726350",
+    "title": "Components of Impulsivity in Gambling Disorder",
+    "authors": [
+      "David C. Hodgins",
+      "Alice Holub"
+    ],
+    "year": 2015,
+    "journal": "International Journal of Mental Health and Addiction",
+    "doi_or_url": "https://doi.org/10.1007/s11469-015-9572-z",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2127523749",
+    "title": "Cognitive performance in irritable bowel syndrome: evidence of a stress-related impairment in visuospatial memory",
+    "authors": [
+      "Paul J. Kennedy",
+      "Gerard Clarke",
+      "A.B. O'Neill",
+      "John A. Groeger",
+      "Eamonn M.M. Quigley",
+      "Fergus Shanahan",
+      "John F. Cryan",
+      "Timothy G. Dinan"
+    ],
+    "year": 2013,
+    "journal": "Psychological Medicine",
+    "doi_or_url": "https://doi.org/10.1017/s0033291713002171",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133330641",
+    "title": "The extended fronto-striatal model of obsessive compulsive disorder: convergence from event-related potentials, neuropsychology and neuroimaging",
+    "authors": [
+      "Margherita Melloni",
+      "Claudia Urbistondo",
+      "Lucas Sede\u00f1o",
+      "Carlos Gelormini\u2010Lezama",
+      "Rafael Kichic",
+      "Agust\u00edn Ib\u00e1\u00f1ez"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00259",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2302814483",
+    "title": "Deficits in executive functions among youths with autism spectrum disorders: an age-stratified analysis",
+    "authors": [
+      "shimin chen",
+      "Yi\u2010Ling Chien",
+      "Chien\u2010Te Wu",
+      "Chi\u2010Yung Shang",
+      "Yu\u2010Yu Wu",
+      "Susan Shur\u2010Fen Gau"
+    ],
+    "year": 2016,
+    "journal": "Psychological Medicine",
+    "doi_or_url": "https://doi.org/10.1017/s0033291715002238",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2020260519",
+    "title": "Distinguishing between attention-deficit hyperactivity and fetal alcohol spectrum disorders in children: clinical guidelines",
+    "authors": [
+      "Elizabeth Peadon"
+    ],
+    "year": 2010,
+    "journal": "Neuropsychiatric Disease and Treatment",
+    "doi_or_url": "https://doi.org/10.2147/ndt.s7256",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171224730",
+    "title": "A Brief Cognitive Assessment Tool for Schizophrenia: Construction of a Tool for Clinicians",
+    "authors": [
+      "Irene Hurford",
+      "Stephen R. Marder",
+      "Richard S.E. Keefe",
+      "Steven P. Reise",
+      "Robert M. Bilder"
+    ],
+    "year": 2009,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/sbp095",
+    "citation_count": 103,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2005977598",
+    "title": "Cognitive Functions and White Matter Tract Damage in Amyotrophic Lateral Sclerosis: A Diffusion Tensor Tractography Study",
+    "authors": [
+      "Lidia Sarro",
+      "Federica Agosta",
+      "Elisa Canu",
+      "Nilo Riva",
+      "A. Prelle",
+      "Massimiliano Copetti",
+      "Gianna Carla Riccitelli",
+      "G\u0131ancarlo Com\u0131",
+      "Massimo Filippi"
+    ],
+    "year": 2011,
+    "journal": "American Journal of Neuroradiology",
+    "doi_or_url": "https://doi.org/10.3174/ajnr.a2658",
+    "citation_count": 102,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2003718536",
+    "title": "Neural mechanisms supporting flexible performance adjustment during development",
+    "authors": [
+      "Eveline A. Crone",
+      "Kiki Zanolie",
+      "Linda Van Leijenhorst",
+      "P. Michiel Westenberg",
+      "Serge A.R.B. Rombouts"
+    ],
+    "year": 2008,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.8.2.165",
+    "citation_count": 101,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]
