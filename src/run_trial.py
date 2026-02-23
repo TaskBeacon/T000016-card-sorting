@@ -1,6 +1,6 @@
 ﻿from functools import partial
 
-from psyflow import StimUnit, set_trial_context
+from psyflow import StimUnit, set_trial_context, next_trial_id
 
 
 RESPONSE_KEYS = ["1", "2", "3", "4"]
@@ -9,17 +9,6 @@ RULE_LABEL_ZH = {
     "shape": "形状",
     "number": "数量",
 }
-
-
-def _next_trial_id(controller) -> int:
-    histories = getattr(controller, "histories", {}) or {}
-    done = 0
-    for items in histories.values():
-        try:
-            done += len(items)
-        except Exception:
-            continue
-    return int(done) + 1
 
 
 def run_trial(
@@ -35,7 +24,7 @@ def run_trial(
 ):
     """Run a single card-sorting trial under a rule condition."""
     rule = str(condition)
-    trial_id = _next_trial_id(controller)
+    trial_id = next_trial_id()
     trial_spec = controller.sample_trial(rule)
 
     trial_data = {"condition": rule}
