@@ -77,10 +77,24 @@ stimuli:
     height: 28
     wrapWidth: 900
 
-  rule_cue:
+  rule_cue_color:
     type: text
     font: SimHei
-    text: "当前规则：{rule_label}"
+    text: "当前规则：颜色"
+    color: cyan
+    height: 38
+
+  rule_cue_shape:
+    type: text
+    font: SimHei
+    text: "当前规则：形状"
+    color: cyan
+    height: 38
+
+  rule_cue_number:
+    type: text
+    font: SimHei
+    text: "当前规则：数量"
     color: cyan
     height: 38
 
@@ -128,12 +142,40 @@ stimuli:
     color: red
     height: 36
 
-  block_break:
+  block_break_color:
     type: text
     font: SimHei
     text: |
       QA 区块 {block_num}/{total_blocks}
-      规则：{rule_label}
+      规则：颜色
+      正确率：{accuracy:.1%}
+      得分：{total_score}
+
+      按空格键继续。
+    color: white
+    height: 24
+    wrapWidth: 980
+
+  block_break_shape:
+    type: text
+    font: SimHei
+    text: |
+      QA 区块 {block_num}/{total_blocks}
+      规则：形状
+      正确率：{accuracy:.1%}
+      得分：{total_score}
+
+      按空格键继续。
+    color: white
+    height: 24
+    wrapWidth: 980
+
+  block_break_number:
+    type: text
+    font: SimHei
+    text: |
+      QA 区块 {block_num}/{total_blocks}
+      规则：数量
       正确率：{accuracy:.1%}
       得分：{total_score}
 
@@ -182,13 +224,6 @@ triggers:
 
   policy:
     strict: false
-
-
-# === Trial Controller =======================================================
-controller:
-  seed: 2026
-  enable_logging: true
-
 
 # === QA Runtime =============================================================
 qa:

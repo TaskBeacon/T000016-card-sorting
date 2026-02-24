@@ -11,8 +11,8 @@ from psyflow.sim.contracts import Action, Feedback, Observation, SessionInfo
 class TaskSamplerResponder:
     """Task-specific sampler for WCST-style card sorting.
 
-    - For non-target phases, responds with `continue_key` when allowed.
-    - For target phase, chooses correct key with probability `hit_rate`.
+    - For non-choice phases, responds with `continue_key` when allowed.
+    - For choice phase, chooses correct key with probability `hit_rate`.
     """
 
     continue_key: str = "space"
@@ -64,14 +64,14 @@ class TaskSamplerResponder:
         if rng is None:
             return Action(key=None, rt_s=None, meta={"source": "task_sampler", "reason": "rng_missing"})
 
-        phase = str(obs.phase or "")
-        if phase != "target":
+        factors = dict(obs.task_factors or {})
+        phase = str(obs.phase or factors.get("stage") or "").strip().lower()
+        if phase != "card_choice_response":
             if self.continue_key in valid_keys:
                 rt = max(self.rt_min_s, self._sample_normal(self.rt_mean_s, self.rt_sd_s))
                 return Action(key=self.continue_key, rt_s=rt, meta={"source": "task_sampler", "phase": phase})
             return Action(key=None, rt_s=None, meta={"source": "task_sampler", "phase": phase})
 
-        factors = dict(obs.task_factors or {})
         correct_key = str(factors.get("correct_key", "")).strip()
         if not correct_key or correct_key not in valid_keys:
             return Action(key=None, rt_s=None, meta={"source": "task_sampler", "reason": "missing_correct_key"})
