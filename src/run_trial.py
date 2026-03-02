@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 from functools import partial
 
@@ -111,6 +111,7 @@ def run_trial(
     )
 
     response_key = choice_display.get_state("response", None)
+    target_rt = choice_display.get_state("rt", None)
     hit = bool(choice_display.get_state("hit", False))
     choice_display.set_state(
         rule=rule,
@@ -178,6 +179,9 @@ def run_trial(
             "rule": rule,
             "target_correct_key": trial_spec["correct_key"],
             "target_response_key": response_key,
+            "target_response": response_key,
+            "target_hit": hit,
+            "target_rt": target_rt,
             "hit": hit,
         }
     )
