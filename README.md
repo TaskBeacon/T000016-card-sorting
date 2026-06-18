@@ -116,8 +116,8 @@ All settings are defined in `config/config.yaml`.
 |------|------|-------------|
 | fixation | text | Center `+` shown in anticipation and ITI. |
 | instruction_text | text | Chinese task instruction with key mapping (`1-4`) and start prompt. |
-| rule_cue_color / shape / number | text | Rule-specific cue text (e.g., `???????`) shown at trial start. |
-| target_card | image | Target card image placeholder (overridden per trial with sampled target image). |
+| rule_cue_color / shape / number | text | Rule-specific cue text (`当前规则：颜色` / `当前规则：形状` / `当前规则：数量`) shown at trial start. |
+| target_card | image | Target card image rebuilt per trial from the sampled feature combination. |
 | ref_card_1 | image | Reference card #1 (left-most response option). |
 | ref_card_2 | image | Reference card #2. |
 | ref_card_3 | image | Reference card #3. |

@@ -16,6 +16,8 @@ All notable development changes for `T000016-card-sorting` are documented here.
 
 ### Fixed
 - Standardized ITI responder-context phase label to `iti` in `src/run_trial.py`.
+- Removed UTF-8 BOM from `src/run_trial.py` so task-build localization checks can parse it.
+- Replaced README placeholder/corrupted cue wording with concrete card-sorting stimulus descriptions.
 
 ## [0.1.0] - 2026-02-17
 - Added new WCST-style card sorting task scaffold under PsyFlow/TAPS standards.
