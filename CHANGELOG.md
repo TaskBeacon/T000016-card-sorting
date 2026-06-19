@@ -13,6 +13,7 @@ All notable development changes for `T000016-card-sorting` are documented here.
 - Simplified card trial generation: `BlockUnit` now generates plain rule-label conditions and `run_trial.py` deterministically samples target features using utility helpers.
 - Updated `main.py` to use the standard `BlockUnit.generate_conditions(...)` path and a MID-style single-flow structure.
 - Updated responder phase routing to use canonical phase `card_choice_response`.
+- Reduced QA and simulation smoke profiles from three blocks to two blocks while preserving six trials per block.
 
 ### Fixed
 - Standardized ITI responder-context phase label to `iti` in `src/run_trial.py`.

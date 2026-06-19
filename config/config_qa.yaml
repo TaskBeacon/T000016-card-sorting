@@ -41,8 +41,8 @@ task:
   voice_name: zh-CN-YunyangNeural
   voice_enabled: false
   delta: 1
-  total_blocks: 3
-  total_trials: 18
+  total_blocks: 2
+  total_trials: 12
   trial_per_block: 6
   conditions: [color, shape, number]
   key_list: ["1", "2", "3", "4"]
