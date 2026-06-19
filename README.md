@@ -22,6 +22,8 @@ This task implements a WCST-style card sorting paradigm in which participants cl
 
 ## 2. Task Flow
 
+![Task Flow](task_flow.png)
+
 ### Block-Level Flow
 
 | Step | Description |
