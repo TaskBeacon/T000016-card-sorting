@@ -21,7 +21,7 @@ from psyflow import (
     runtime_context,
 )
 
-from src import run_trial
+from src import generate_card_sorting_conditions, run_trial
 
 
 MODES = ("human", "qa", "sim")
@@ -107,9 +107,10 @@ def run(options: TaskRunOptions) -> None:
                     keyboard=kb,
                 )
                 .generate_conditions(
+                    func=generate_card_sorting_conditions,
                     n_trials=int(settings.trials_per_block),
                     condition_labels=[rule],
-                    order="sequential",
+                    key_list=list(settings.key_list),
                 )
                 .on_start(lambda _b: trigger_runtime.send(settings.triggers.get("block_onset")))
                 .on_end(lambda _b: trigger_runtime.send(settings.triggers.get("block_end")))

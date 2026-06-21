@@ -4,7 +4,7 @@ from functools import partial
 
 from psyflow import StimUnit, next_trial_id, set_trial_context
 
-from .utils import normalize_rule, sample_card_trial_spec
+from .utils import card_condition_to_trial_spec
 
 
 def run_trial(
@@ -19,19 +19,15 @@ def run_trial(
 ):
     """Run one WCST-style card-sorting trial from a simple rule condition label."""
     trial_id = next_trial_id()
-    rule = normalize_rule(str(condition))
+    trial_spec = card_condition_to_trial_spec(condition)
+    rule = str(trial_spec["rule"])
     response_keys = [str(k) for k in settings.key_list]
     if len(response_keys) != 4:
         raise ValueError(f"T000016 requires task.key_list to define 4 response keys, got {response_keys!r}")
-    if block_idx is None:
-        raise ValueError("block_idx is required for deterministic trial generation in T000016.")
 
-    block_seed = int(settings.block_seed[int(block_idx)])
-    trial_seed = (block_seed * 1000) + int(trial_id)
-    trial_spec = sample_card_trial_spec(rule, key_list=response_keys, seed=trial_seed)
     cond_id = str(trial_spec["condition_id"])
 
-    trial_data = {"condition": rule, "condition_id": cond_id, "trial_seed": trial_seed}
+    trial_data = {"condition": rule, "condition_id": cond_id}
     make_unit = partial(StimUnit, win=win, kb=kb, runtime=trigger_runtime)
 
     # phase: rule_cue
@@ -121,7 +117,6 @@ def run_trial(
         correct_key=trial_spec["correct_key"],
         target_image=trial_spec["target_image"],
         response_key=response_key,
-        trial_seed=trial_seed,
     ).to_dict(trial_data)
 
     # phase: choice_feedback
